@@ -1,0 +1,438 @@
+.head{
+  background-color:#e6f2ff;
+}
+
+.logo{
+   height : 250px;
+   width : 300px;
+   margin-left:0px;
+
+}
+.logo2{
+   height : 250px;
+   width : 350px;
+   position:absolute;
+
+}
+.search{
+  float: right;
+   margin-top: 225px;
+   font-size: 17px;
+}
+
+.hr1 {
+  border: 1px solid grey;
+  margin-top:0px;
+}
+.ul1{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  width: 100%;
+  background-color: #19334d;
+}
+.li1{
+  float: left;
+  display: inline;
+}
+.a{
+  display: block;
+  color: white;
+  font-family: Lucida Console;
+  font-size: 17px;
+  text-align: center;
+  padding: 14px 41px;
+  text-decoration: none;
+
+}
+.a1:hover {
+  background-color: #ccccb3;
+}
+.img2{
+   height : 600px;
+   width : 100%;
+}
+.f1{
+  margin-right:190px;
+  margin-left:190px;
+  color:#1f2e2e;
+}
+.img3{
+   height : 350px;
+   width : 45%;
+   margin-left:50px;
+}
+.p1{
+  margin-top:5px;
+  margin-left:30px;
+  font-family: Courier;
+  font-size:37px;
+  color:#330033;
+}
+.img5{
+  margin-top:0;
+  margin-left: 450px;
+   height : 85px;
+   width : 30%;
+}
+.p2{
+  text-align: center;
+  margin-right:0px;
+  font-family: Courier;
+  font-size:17px;
+  color:#001a33;
+}
+.a2{
+  margin-left:475px;
+  color:#730099;
+}
+.a3{
+  margin-left:87px;
+  color:#730099;
+}
+.a2:hover{
+  background-color :  #80bfff;
+}
+.a3:hover{
+  background-color :  #80bfff;
+}
+.foot{
+  background-color:#ccccb3;
+  opacity: 0.8;
+}
+/*plan wedding-----------------*/
+.button1 {
+  background-color: #e9a512;
+  border: none;
+  color: #00001a;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 0px 0px 150px;
+  cursor: pointer;
+  border-radius: 9px;
+}
+.button1:hover{
+  background-color :  #06498b;
+  color:white;
+}
+
+.button2 {
+  background-color: #e9a512;
+  border: none;
+  color: #00001a;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 165px 0px ;
+  cursor: pointer;
+  border-radius: 9px;
+}
+.button2:hover{
+  background-color :  #06498b;
+  color:white;
+}
+
+.button3 {
+  background-color: #e9a512;
+  border: none;
+  color: #00001a;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 75px 0px ;
+  cursor: pointer;
+  border-radius: 9px;
+}
+.button3:hover{
+  background-color :  #06498b;
+  color:white;
+}
+
+a {
+    color: inherit;
+}
+
+.img6{
+  align:center;
+  height : 350px;
+  width : 100%;
+
+}
+.button4 {
+  background-color: #4d4dff;
+  font-weight: bold;
+  border: none;
+  color: #00001a;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 0px 0px 150px ;
+  cursor: pointer;
+  border-radius: 7px;
+}
+.p3{
+  text-align:center;
+  font-size:30px;
+  color:#00004d;
+  font-family:Comic Sans MS;
+}
+.button5 {
+  background-color: #8080ff;
+  font-weight: bold;
+  border: none;
+  color: #00001a;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 0px 0px 200px ;
+  cursor: pointer;
+  border-radius: 7px;
+}
+.button6 {
+  background-color: #8080ff;
+  font-weight: bold;
+  border: none;
+  color: #00001a;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 0px 0px 0px ;
+  cursor: pointer;
+  border-radius: 7px;
+}
+.txt1{
+  background-color:#ffcccc;
+  float:right;
+  width:400px;
+  margin-top:12px;
+  margin-right:170px;
+  font-size: 20px;
+  color:#990000;
+}
+.button7 {
+  background-color: #1aff66;
+  font-weight: bold;
+  border: none;
+  color: #00001a;
+  padding: 18px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 0px 0px 600px ;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.i{
+	
+ margin-top:10px;
+ background-image:url("../images/img1.jpg");
+ background-color:white;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ background-attachment: fixed;
+
+	
+}
+
+/*be a partner-----------------*/
+
+.partner1 {
+	width: 262.5px;
+    height: 175px;
+	margin-left:35px;	
+}
+.partner2 {
+	width:262.5px;
+	height: 175px;
+	margin-left:35px;
+}
+.partner3 {
+	width:262.5px;
+	height: 175px;
+	margin-left:35px;
+}
+.partner4 {
+	width:262.5px;
+	height: 175px;
+	margin-left:35px;
+}	
+
+
+/*gallery-----------------*/
+	
+.tablegallery  {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+ .gallery1 {
+    width: 400px;
+    height: 225px;
+	margin-left:35px;
+  }
+  
+.gallery2 {
+    width: 325px;
+    height: 225px;
+	margin-left:35px;
+  }
+  
+ .gallery3 {
+    width: 330px;
+    height: 230px;
+	margin-left:35px;
+  }
+
+.gallery4 {
+    width: 365px;
+    height: 232.5px;
+	margin-left:35px;
+  }
+  
+.gallery5 {
+    width: 350px;
+    height: 220px;
+	margin-left:35px;
+}
+
+.gallery6 {
+	width: 350px;
+    height: 225px;
+	margin-left:35px;
+  }
+  
+ .gallery7 {
+    width: 400px;
+    height: 225px;
+	margin-left:35px;
+  }
+  
+ .gallery8 {
+    width: 400px;
+    height: 225px;
+	margin-left:35px;
+  }
+
+th{
+	
+	font-size:15px;
+	text-align: center;
+}
+
+.button10 {
+  background-color: #e6e6e6;
+  font-weight: bold;
+  border: none;
+  color: #00001a;
+  padding: 2px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 0px 0px 630px ;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.button11 {
+  background-color: #e6e6e6;
+  font-weight: bold;
+  border: none;
+  color: #00001a;
+  padding: 2px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 0px 0px 0px ;
+  cursor: pointer;
+  border-radius: 7px;
+}
+.png{
+  width:17%;
+  height:17%;
+}
+.pp{
+	font-size: 22px;
+  color:#4d0000;
+}
+.buttonn{
+	background-color: #ff9933;
+	border: none;
+	color: #00001a;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	cursor: pointer;
+	border-radius: 9px;
+}
+
+/*be a partner details-----------------*/
+
+.form{
+  text-align:center;
+  font-family: "Lucida Console"," Courier", "monospace";
+  font-size: 15px;
+  background-color:grey;
+    padding-bottom: 25px;
+    padding-top:15px;
+  margin: 10px 120px 0px 120px;
+  opacity:0.85;
+}
+
+.submit{
+  background-color:green;
+  color: white;
+}
+
+/*Contact Us-----------------*/
+
+.submit {
+	background-color:#3333cc;
+	height:30px;
+}
+.heading {
+	text-align:center;
+	font-size:24px;
+}	
+.fname {
+	width:400px;
+	background-color:#ffe6e6;
+}
+.cnum {
+	width:200px;
+	background-color:#ffe6e6;
+	font-size:18px;
+}	
+.email {
+	width:450px;
+	background-color:#ffe6e6;
+}	
+.address {
+	width:550px;
+	background-color:#ffe6e6;
+}
+.contactinfo {
+	background-color:#9999ff;
+	opacity:0.85;
+}	
+
+
+
